@@ -1,8 +1,8 @@
 <!--title-->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:dfe9f3,50:e7f0fd,100:ffffff&height=150&section=header&text=Yeji%20Kim&fontColor=656565&animation=fadeIn&fontSize=48&desc=Frontend-Developer&descSize=25&fontAlign=50&fontAlignY=30"
-    alt="venom"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Yeji%20Kim&animation=fadeIn&fontSize=40&desc=Frontend-Developer&descSize=25&fontAlignY=27&descAlignY=50"
+    alt="waving"
   />
 </div>
 
@@ -35,9 +35,9 @@
     <img
       src="https://img.shields.io/badge/flutter-02569B.svg?&style=flat-square&logo=flutter&logoColor=white"
     />&nbsp
-    <img
+<!--     <img
       src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"
-    />&nbsp
+    />&nbsp -->
   </div>
 
   <h5>Development Tools</h5>
@@ -63,9 +63,9 @@
       src="https://img.shields.io/badge/firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white"
     />&nbsp
     <br />
-    <img
+<!--     <img
       src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse%20IDE&logoColor=white"
-    />&nbsp
+    />&nbsp -->
   </div>
   <br>
   <h3>📬 Contect</h3>
